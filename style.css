@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:rgb(139, 176, 64);
+    color:rgb(15, 13, 2);
+}
+header{
+    background-color: rgb(105, 119, 119);
+    color: white;;
+    text-align: center;
+
+}
+nav{
+    background-color: rgb(151, 72, 72);
+}
